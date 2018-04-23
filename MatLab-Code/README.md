@@ -1,1 +1,1 @@
-# This is where all of Mech_105 homeworks codes are located
+# This is where all of my Mech_105 homeworks codes are located
